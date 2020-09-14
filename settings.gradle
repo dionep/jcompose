@@ -1,0 +1,2 @@
+rootProject.name = "JCompose"
+include ':app'
